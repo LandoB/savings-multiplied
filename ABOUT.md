@@ -1,30 +1,21 @@
-# Heading 1
-
-<h2>Heading 2</h2>
-
-<h3>Heading 3</h3>
+# Rolando Bernal
+## Software Developer
 
 
-1. Item 1</li>
-1. Item 2</li>
-1. Item 3</li>
-1. Item 4</li>
 
----
+### WELCOME!
 
-<hr/>
+#### Thank you for taking the time to review my site. I have worked in IT for over 10 years. I love creating new things, and creating new things through code.
 
-<ul>
-<li>Bullet 1</li>
-<li>Bullet 2</li>
-</ul>
+#### I'm an avid coder. When I'm not coding something, I'm spending time with my family. I also enjoy playing Golf, having a good cup of coffee with my friends, and watching a good Football game.
 
-<pre class="code">
-var thisVariable = "awesome variable";
-</pre>
+#### I would love an opportunity to chat over a nice cup of coffee about software development, golf, football, soccer or the topic that most interests you.
 
-<blockquote>
-"That" - She
-</blockquote>
+#### Feel free to look around, download my full resume and contact me. My Twitter is:
+[@jrolandobernal](http://twitter.com/jrolandobernal)
+        <p>
+          #### ~Rolando
+        </p>
 
-<a href="http://www.stevebrownlee.com">a link to me</a>
+
+
