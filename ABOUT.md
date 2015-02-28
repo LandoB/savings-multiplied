@@ -4,12 +4,13 @@
 
 <h3>Heading 3</h3>
 
-<ol>
-<li>Item 1</li>
-<li>Item 2</li>
-<li>Item 3</li>
-<li>Item 4</li>
-</ol>
+
+1. Item 1</li>
+1. Item 2</li>
+1. Item 3</li>
+1. Item 4</li>
+
+---
 
 <hr/>
 
